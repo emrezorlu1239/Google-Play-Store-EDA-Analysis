@@ -45,4 +45,4 @@ The analysis includes a dashboard containing:
 * **Scikit-learn:** Data preprocessing.
 
 ---
-*This project demonstrates end-to-end data preprocessing and analytical skills.*
+*This project demonstrates end-to-end data preprocessing and analytical skills.* 
